@@ -7,8 +7,8 @@ Java-консольное приложение для обработки `.sb` �
 ## 📦 Клонирование проекта
 
 ```bash
-git clone https://github.com/FreePoet63/sigma-department-processor.git
-cd sigma-department-processor
+git clone https://github.com/FreePoet63/sigma-processor.git
+cd sigma-processor
 ```
 
 > Или просто скачай `.zip` архив с репозитория и распакуй.
